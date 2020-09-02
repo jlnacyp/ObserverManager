@@ -1,0 +1,3 @@
+/home/yang/桌面/Pratice_Obsever/build/CMakeFiles/rebuild_cache.dir
+/home/yang/桌面/Pratice_Obsever/build/CMakeFiles/Pratice_Obsever.dir
+/home/yang/桌面/Pratice_Obsever/build/CMakeFiles/edit_cache.dir

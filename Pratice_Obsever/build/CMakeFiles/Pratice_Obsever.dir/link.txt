@@ -1,0 +1,1 @@
+/usr/bin/g++   -std=c++11 -O3 -DNDEBUG  -rdynamic CMakeFiles/Pratice_Obsever.dir/src/main.cpp.o  -o Pratice_Obsever -lpthread 
